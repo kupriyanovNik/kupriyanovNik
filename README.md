@@ -25,10 +25,10 @@ More in CVs...
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kupriyanovNik&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kupriyanovNik&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# Contacts:
+# 📞Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - @idontknowktoya
 
-# CV:
+# 💵CV:
 [russian](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/RUSCV%20Kupriyanov%20Nikita.pdf)
 
 [english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf) (not implemented)
