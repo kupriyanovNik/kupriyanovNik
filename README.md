@@ -30,4 +30,5 @@ More in CVs...
 
 # CV:
 [russian](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/RUSCV%20Kupriyanov%20Nikita.pdf)
-[english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf)
+
+[english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf) (not implemented)
