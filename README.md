@@ -1,10 +1,10 @@
-# 💫About Me:
+# 💫 About Me:
 16yo JUN+/MID iOS developer
 
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
-# 💻Tech Stack:
+# 💻 Tech Stack:
 
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -20,15 +20,15 @@
 
 More in CVs...
 
-# 📊GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kupriyanovNik&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kupriyanovNik&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kupriyanovNik&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# 📞Contacts:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - @idontknowktoya
+# 📞 Contacts:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - [@idontknowktoya](https://t.me/idontknowktoya)
 
-# 💵CV:
+# 💵 CV:
 [russian](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/RUSCV%20Kupriyanov%20Nikita.pdf)
 
-[english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf) (not implemented)
+[english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf)
