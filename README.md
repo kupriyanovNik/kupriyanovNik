@@ -1,5 +1,5 @@
 # 💫 About Me:
-16yo JUN+/MID iOS developer
+17yo JUN+/MID iOS developer
 
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
