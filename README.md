@@ -18,8 +18,6 @@
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
-More in CVs...
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kupriyanovNik&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kupriyanovNik&theme=swift&hide_border=false)<br/>
