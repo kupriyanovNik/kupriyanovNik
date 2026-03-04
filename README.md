@@ -27,8 +27,3 @@ More in CVs...
 
 # 📞 Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - [@idontknowktoya](https://t.me/idontknowktoya)
-
-# 💵 CV:
-[russian](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/RUSCV%20Kupriyanov%20Nikita.pdf)
-
-[english](https://github.com/kupriyanovNik/kupriyanovNik/blob/develop/CV%20Kupriyanov%20Nikita.pdf)
